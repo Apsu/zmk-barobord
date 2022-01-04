@@ -41,10 +41,10 @@
             label = "Default";
 
             bindings = <
-               &kp X        &kp C        &kp Y       &kp K         &kp B                                       &kp Q         &kp J        &kp U         &kp O       &kp SEMI
-               &hm LGUI R   &hm LALT S   &hm LCTL T  &hm LSHIFT H  &kp D                                       &kp L         &hm RSHIFT N &hm RCTL E    &hm RALT A  &hm RGUI I
-               &kp W        &kp F        &kp G       &kp P         &kp V                                       &kp Z         &kp M        &kp FSLH      &kp COMMA   &kp DOT
-                            &kp GRAVE    &kp BSLH    &kp ESC       &lt NAV SPC  &lt MEDIA TAB  &lt FUNC RET    &lt SYM BSPC  &kp SQT      &kp LBKT      &kp RBKT
+               &kp X        &kp C        &kp G       &kp K         &kp B                                       &kp Q         &kp J        &kp U         &kp SQT     &kp SEMI
+               &hm LGUI R   &hm LALT S   &hm LCTL T  &hm LSHIFT H  &kp D                                       &kp L         &hm RSHIFT N &hm RCTL A    &hm RALT O  &hm RGUI I
+               &kp W        &kp F        &kp M       &kp P         &kp V                                       &kp Z         &kp COMMA    &kp DOT       &kp FSLH    &kp Y
+                            &kp GRAVE    &kp BSLH    &kp ESC       &lt NAV SPC  &lt MEDIA TAB  &lt FUNC RET    &lt SYM E     &kp BSPC     &kp LBKT      &kp RBKT
             >;
         };
 
